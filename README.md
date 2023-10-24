@@ -18,4 +18,4 @@ menyediakan kode untuk melakukan prediksi dengan gambar baru yang tidak termasuk
 
 | EVALUASI MODEL                       |
 |------------------------------------|
-| ![Evaluasi](evaluasi_model.PNG) |
+| ![Evaluasi](EvaluasiModel.png) |
